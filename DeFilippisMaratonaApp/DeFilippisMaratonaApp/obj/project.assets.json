@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Utente\\Desktop\\DeFilippisMaratonaApp\\DeFilippisMaratonaApp\\DeFilippisMaratonaApp.csproj",
+      "projectUniqueName": "C:\\Users\\Utente\\Desktop\\maratona-repo-DeFilippisMarco\\DeFilippisMaratonaApp\\DeFilippisMaratonaApp\\DeFilippisMaratonaApp.csproj",
       "projectName": "DeFilippisMaratonaApp",
-      "projectPath": "C:\\Users\\Utente\\Desktop\\DeFilippisMaratonaApp\\DeFilippisMaratonaApp\\DeFilippisMaratonaApp.csproj",
+      "projectPath": "C:\\Users\\Utente\\Desktop\\maratona-repo-DeFilippisMarco\\DeFilippisMaratonaApp\\DeFilippisMaratonaApp\\DeFilippisMaratonaApp.csproj",
       "packagesPath": "C:\\Users\\Utente\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Utente\\Desktop\\DeFilippisMaratonaApp\\DeFilippisMaratonaApp\\obj\\",
+      "outputPath": "C:\\Users\\Utente\\Desktop\\maratona-repo-DeFilippisMarco\\DeFilippisMaratonaApp\\DeFilippisMaratonaApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",

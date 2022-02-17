@@ -25,11 +25,13 @@ namespace DeFilippisMaratonaApp
         {
             InitializeComponent();
             maratone = new Maratone();
+            DgElencoMaratone.ItemsSource = maratone.elencoMaratone;
         }
 
         private void BtnLeggiDaFile_Click(object sender, RoutedEventArgs e)
         {
-
+            maratone.Leggi();
+            DgElencoMaratone.Items.Refresh();
         }
     }
 }

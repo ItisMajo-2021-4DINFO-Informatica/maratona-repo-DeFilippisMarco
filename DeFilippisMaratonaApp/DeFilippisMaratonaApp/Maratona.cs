@@ -10,7 +10,7 @@ namespace DeFilippisMaratonaApp
     {
         public string NomeAtleta { get; set; }
         public string SocietàDiAppartenenza { get; set; }
-        public string TempoImpiegato { get; set; }
+        public int TempoImpiegato { get; set; }
         public string Città { get; set; }
     }
 }
